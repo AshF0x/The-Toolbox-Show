@@ -6,4 +6,5 @@ https://www.youtube.com/watch?v=YS4e4q9oBaU
 - Black Hat Go: https://nostarch.com/blackhatgo
 - Gopher Discord Server: https://discord.gg/tJncs6
 - Nahamsec Discord Server: https://discord.gg/qPhnHW
+- devhints cheats sheet (thanks PwnFunction): https://devhints.io/go
 
