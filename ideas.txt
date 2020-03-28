@@ -1,0 +1,3 @@
+Ideas for the Portscanner:
+- Flags to specify domain, ports, output?
+- Learn about timeout
