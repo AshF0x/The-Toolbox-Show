@@ -1,3 +1,5 @@
 Ideas for the Portscanner:
 - Flags to specify domain, ports, output?
-- Learn about timeout
+- Learn about timeout, look it up (the right functions in the Docs), and maybe implement a flag System to give the User control
+- lookup timeout
+- make it faster
