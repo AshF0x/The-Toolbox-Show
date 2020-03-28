@@ -8,3 +8,5 @@ https://www.youtube.com/watch?v=YS4e4q9oBaU
 - Nahamsec Discord Server: https://discord.gg/qPhnHW
 - devhints cheats sheet (thanks PwnFunction): https://devhints.io/go
 
+- Go by Example: https://gobyexample.com/ *(a hands-on introduction to Go using annotated example programs.)*
+- Golang for beginners: https://www.youtube.com/playlist?list=PLRAV69dS1uWSR89FRQGZ6q9BR2b44Tr9N 
